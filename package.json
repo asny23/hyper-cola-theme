@@ -1,0 +1,22 @@
+{
+  "name": "hyper-cola-theme",
+  "version": "1.0.0",
+  "description": "Cola-inspired color theme for Hyper",
+  "main": "index.js",
+  "license": "MIT",
+  "homepage": "https://github.com/asny23/hyper-cola-theme",
+  "repository" : {
+    "type" : "git",
+    "url" : "https://github.com/asny23/hyper-cola-theme.git"
+  },
+  "keywords": [
+    "hyper",
+    "hyper-theme",
+    "hyperterm",
+    "hyperterm-theme",
+    "hyper.app",
+    "coke",
+    "cola"
+  ],
+  "author": "yun asny23"
+}
