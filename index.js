@@ -60,6 +60,9 @@ exports.decorateConfig = config => {
         right: 0;
         background-color: ${scheme.subBgColor};
       }
+      .tabs_nav {
+        background-color: ${scheme.subBgColor};
+      }
       .tabs_title {
         font-family: ${'Coca Cola ii, ' + config.fontFamily}
       }
