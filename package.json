@@ -1,6 +1,6 @@
 {
   "name": "hyper-cola-theme",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Cola-inspired color theme for Hyper",
   "main": "index.js",
   "license": "MIT",
